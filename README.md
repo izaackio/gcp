@@ -16,3 +16,8 @@
 * https://cloud.google.com/blog/products/cloud-migration/30-guides-to-kickstart-your-migration-to-google-cloud - Guides to start Migration to GCP
 * https://cloud.google.com/blog/products/cloud-migration/lets-migrate-why-lifting-and-shifting-simply-too-easy-ignore - Lift and Shifting to GCP
 
+# Operational
+
+## Disaster Recovery
+* https://cloud.google.com/learn/what-is-disaster-recovery - What is Disaster Recovery?
+* https://cloud.google.com/architecture/dr-scenarios-planning-guide - Disaster Recovery Planning Guide
