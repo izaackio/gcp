@@ -5,6 +5,10 @@
 ## BigQuery
 * https://cloud.google.com/blog/topics/developers-practitioners/bigquery-explained-working-joins-nested-repeated-data - Design
 * https://siyab.medium.com/get-that-crucial-report-in-slack-channel-cdbdcf59c2cf - Building reports from BQ-data with Python and Matplotlib, and sending to Slack 
+* https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-api-landscape?__s=m87pp1inbd9fhca0c8u0&utm_source=drip&utm_medium=email&utm_campaign=GCP%2BNewsletter%2B%23256 - Working with BigQuery API
+* https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-query-processing - BigQuery Query Processing
+* https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-jobs-reservation-model - BigQuery Jobs & Reservations
+* https://cloud.google.com/blog/topics/developers-practitioners/bigquery-workload-management-best-practices?__s=m87pp1inbd9fhca0c8u0&utm_source=drip&utm_medium=email&utm_campaign=GCP%2BNewsletter%2B%23256 - BigQuery Workload Management
 
 ## Vertex AI
 * https://towardsdatascience.com/what-does-vertex-ai-do-d30014024f55 What does Vertex AI do?
