@@ -28,8 +28,8 @@
 ## Migration Strategies
 * https://cloud.google.com/blog/products/cloud-migration/30-guides-to-kickstart-your-migration-to-google-cloud - Guides to start Migration to GCP
 * https://cloud.google.com/blog/products/cloud-migration/lets-migrate-why-lifting-and-shifting-simply-too-easy-ignore - Lift and Shifting to GCP
-
 * https://cloud.google.com/adoption-framework - GCP Adoption Framework
+* https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/cloud-adoption-to-accelerate-it-modernization - Cloud Adoption to accelerate IT-modernization
 
 # Operational
 
