@@ -9,6 +9,8 @@
 * https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-query-processing - BigQuery Query Processing
 * https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-jobs-reservation-model - BigQuery Jobs & Reservations
 * https://cloud.google.com/blog/topics/developers-practitioners/bigquery-workload-management-best-practices?__s=m87pp1inbd9fhca0c8u0&utm_source=drip&utm_medium=email&utm_campaign=GCP%2BNewsletter%2B%23256 - BigQuery Workload Management
+* https://christianlauer90.medium.com/best-practices-when-working-with-googles-bigquery-f008f3b538d2 - BigQuery Best-practices
+* https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-monitoring?__s=m87pp1inbd9fhca0c8u0&utm_source=drip&utm_medium=email&utm_campaign=GCP%2BNewsletter%2B%23257 - Monitoring BigQuery, Slots, Reservations, Queries, Errors
 
 ## Vertex AI
 * https://towardsdatascience.com/what-does-vertex-ai-do-d30014024f55 What does Vertex AI do?
