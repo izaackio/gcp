@@ -18,6 +18,7 @@
 
 ## Looker
 * https://looker.com/platform/overview - Looker Platform Overview
+* https://medium.com/google-cloud/looker-an-introduction-88432392b240 - An Introduction to Looker
 * https://looker.com/guide/getting-started - Getting started with Looker
 * https://info.looker.com/whitepapers/looker-and-bigquery-important-considerations-google-cloud-whitepaper - Looker and BigQuery Whitepaper
 * https://cloud.google.com/blog/products/data-analytics/choosing-the-right-bi-tool-for-the-right-use-case-at-better - Looker vs Tableau Use-Case
