@@ -12,6 +12,7 @@
 * https://christianlauer90.medium.com/best-practices-when-working-with-googles-bigquery-f008f3b538d2 - BigQuery Best-practices
 * https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-monitoring?__s=m87pp1inbd9fhca0c8u0&utm_source=drip&utm_medium=email&utm_campaign=GCP%2BNewsletter%2B%23257 - Monitoring BigQuery, Slots, Reservations, Queries, Errors
 * https://github.com/GoogleCloudPlatform/bigquery-oreilly-book - BigQuery Book Articles and Tests
+* https://medium.com/daas-labs/trying-out-data-qna-on-bigquery-and-google-sheets-e47939fddf25 - BigQuery Data QnA
 
 ## Vertex AI
 * https://towardsdatascience.com/what-does-vertex-ai-do-d30014024f55 What does Vertex AI do?
