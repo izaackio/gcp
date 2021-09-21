@@ -13,6 +13,7 @@
 * https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-monitoring?__s=m87pp1inbd9fhca0c8u0&utm_source=drip&utm_medium=email&utm_campaign=GCP%2BNewsletter%2B%23257 - Monitoring BigQuery, Slots, Reservations, Queries, Errors
 * https://github.com/GoogleCloudPlatform/bigquery-oreilly-book - BigQuery Book Articles and Tests
 * https://medium.com/daas-labs/trying-out-data-qna-on-bigquery-and-google-sheets-e47939fddf25 - BigQuery Data QnA
+* https://medium.com/geekculture/my-bigquery-query-cheat-sheet-dd8bc7b5a69b - BigQuery Cheat Sheet
 
 ## Vertex AI
 * https://towardsdatascience.com/what-does-vertex-ai-do-d30014024f55 What does Vertex AI do?
