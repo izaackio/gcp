@@ -46,3 +46,6 @@
 * https://cloud.google.com/learn/what-is-disaster-recovery - What is Disaster Recovery?
 * https://cloud.google.com/architecture/dr-scenarios-planning-guide - Disaster Recovery Planning Guide
 * https://medium.com/google-cloud/measuring-reliability-in-gcp-step-by-step-slo-creation-guide-using-cloud-operation-sandbox-99043bd0e70f - Measuring Reliablity in GCP with SLOs in the Cloud Operations suite
+
+## Billing & Cost-Control
+* https://cloud.google.com/products/calculator/ - Price calculator for services
