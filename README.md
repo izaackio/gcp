@@ -29,6 +29,7 @@
 * https://info.looker.com/whitepapers/looker-and-bigquery-important-considerations-google-cloud-whitepaper - Looker and BigQuery Whitepaper
 * https://cloud.google.com/blog/products/data-analytics/choosing-the-right-bi-tool-for-the-right-use-case-at-better - Looker vs Tableau Use-Case
 * https://looker.com/platform/blocks/source/google-cloud-billing-by-datatonic - GCP Billing Block in Looker
+* https://medium.com/google-cloud/the-lookml-diagram-is-not-your-traditional-erd-22a1911e715a - LookML Diagrams, Data Models in Looker
 
 
 
