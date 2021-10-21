@@ -41,6 +41,10 @@
 * https://cloud.google.com/adoption-framework - GCP Adoption Framework
 * https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/cloud-adoption-to-accelerate-it-modernization - Cloud Adoption to accelerate IT-modernization
 
+## Migration Tools
+- https://cloud.google.com/migrate/anthos/docs/fit-assessment - Anthos Fit Assessment
+- https://cloud.google.com/migrate/anthos/docs/planning-best-practices - Migration Planning for Anthos
+
 # Operational
 
 ## Disaster Recovery
