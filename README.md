@@ -52,6 +52,12 @@
 * https://cloud.google.com/learn/what-is-disaster-recovery - What is Disaster Recovery?
 * https://cloud.google.com/architecture/dr-scenarios-planning-guide - Disaster Recovery Planning Guide
 * https://medium.com/google-cloud/measuring-reliability-in-gcp-step-by-step-slo-creation-guide-using-cloud-operation-sandbox-99043bd0e70f - Measuring Reliablity in GCP with SLOs in the Cloud Operations suite
+* https://medium.com/google-cloud/disaster-recovery-on-google-cloud-for-data-part-2-2523d862fbe1 - DR for Data on GCP
+* https://flyonthecloud.com/blog/disaster-recovery-plan/ - What should be included in a DRP and how to do DR on GCP?
 
 ## Billing & Cost-Control
 * https://cloud.google.com/products/calculator/ - Price calculator for services
+
+# Books
+* https://www.oreilly.com/library/view/programming-google-cloud/9781492089025/ - Programming Google Cloud (Jan 2022)
+* https://www.amazon.com/dp/1492092894/ref=cm_sw_em_r_mt_dp_3D7FKVGB2SX3K0CPS1TN - Google Cloud Cookbook: Practical Solutions for Building and Deploying Cloud Services
