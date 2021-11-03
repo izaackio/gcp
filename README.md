@@ -15,6 +15,7 @@
 * https://medium.com/daas-labs/trying-out-data-qna-on-bigquery-and-google-sheets-e47939fddf25 - BigQuery Data QnA
 * https://medium.com/geekculture/my-bigquery-query-cheat-sheet-dd8bc7b5a69b - BigQuery Cheat Sheet
 * https://medium.com/teads-engineering/managing-a-bigquery-data-warehouse-at-scale-e6ec9a8406b2 - Slots and Query optimization, Table/Fields sizes
+* https://cloud.google.com/blog/products/data-analytics/google-bigquery-table-snapshots-for-data-backups - BigQuery Snapshots for DR/Backups
 
 ## Vertex AI
 * https://towardsdatascience.com/what-does-vertex-ai-do-d30014024f55 What does Vertex AI do?
