@@ -22,6 +22,7 @@
 * https://cloud.google.com/blog/topics/developers-practitioners/new-ml-learning-path-vertex-ai?utm_source=linkedin&utm_medium=unpaidsoc&utm_campaign=fy21q3-googlecloudtech-blog-ai-infeed-no&utm_content=vertex&utm_term=- - Vertex AI Learning Path
 * https://codelabs.developers.google.com/codelabs/bqml-vertex-prediction#0 - Lab: Deploy BigQueryML Model to Vertex AI
 * https://codelabs.developers.google.com/vertex_custom_training_prediction#0 - Lab: Train a Custom TensorFlow model and deploy model endpoint
+* https://towardsdatascience.com/developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python-865b535814f8 - Deploying ML models on Vertex AI with Python
 
 ## Looker
 * https://looker.com/platform/overview - Looker Platform Overview
