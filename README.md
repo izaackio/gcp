@@ -3,9 +3,15 @@
 # Products
 
 ## BigQuery
-* https://cloud.google.com/blog/topics/developers-practitioners/bigquery-explained-working-joins-nested-repeated-data - Design
+
+### Design
+* https://cloud.google.com/architecture/bigquery-data-warehouse - BigQuery for Data Warehouse practitioners
+* https://cloud.google.com/blog/topics/developers-practitioners/bigquery-explained-working-joins-nested-repeated-data - Nested and Repeated Fields
+* https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-api-landscape - BigQuery APIs
+
+### Working with BigQuery
 * https://siyab.medium.com/get-that-crucial-report-in-slack-channel-cdbdcf59c2cf - Building reports from BQ-data with Python and Matplotlib, and sending to Slack 
-* https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-api-landscape?__s=m87pp1inbd9fhca0c8u0&utm_source=drip&utm_medium=email&utm_campaign=GCP%2BNewsletter%2B%23256 - Working with BigQuery API
+
 * https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-query-processing - BigQuery Query Processing
 * https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-jobs-reservation-model - BigQuery Jobs & Reservations
 * https://cloud.google.com/blog/topics/developers-practitioners/bigquery-workload-management-best-practices?__s=m87pp1inbd9fhca0c8u0&utm_source=drip&utm_medium=email&utm_campaign=GCP%2BNewsletter%2B%23256 - BigQuery Workload Management
@@ -16,6 +22,7 @@
 * https://medium.com/geekculture/my-bigquery-query-cheat-sheet-dd8bc7b5a69b - BigQuery Cheat Sheet
 * https://medium.com/teads-engineering/managing-a-bigquery-data-warehouse-at-scale-e6ec9a8406b2 - Slots and Query optimization, Table/Fields sizes
 * https://cloud.google.com/blog/products/data-analytics/google-bigquery-table-snapshots-for-data-backups - BigQuery Snapshots for DR/Backups
+* https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-data-governance - Data Governance in BigQuery
 
 ## Vertex AI
 * https://towardsdatascience.com/what-does-vertex-ai-do-d30014024f55 What does Vertex AI do?
@@ -33,7 +40,10 @@
 * https://looker.com/platform/blocks/source/google-cloud-billing-by-datatonic - GCP Billing Block in Looker
 * https://medium.com/google-cloud/the-lookml-diagram-is-not-your-traditional-erd-22a1911e715a - LookML Diagrams, Data Models in Looker
 
+# Architecture
 
+## Architecture Frameworks for GCP Design
+* https://cloud.google.com/architecture/framework - GCP Architecture Framework
 
 # Migration
 
