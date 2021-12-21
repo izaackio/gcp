@@ -52,6 +52,7 @@
 * https://cloud.google.com/blog/products/cloud-migration/lets-migrate-why-lifting-and-shifting-simply-too-easy-ignore - Lift and Shifting to GCP
 * https://cloud.google.com/adoption-framework - GCP Adoption Framework
 * https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/cloud-adoption-to-accelerate-it-modernization - Cloud Adoption to accelerate IT-modernization
+* https://cloud.google.com/blog/products/cloud-migration/real-world-cloud-migration-strategies - Migration Factory, Greenfield Dev, Modernization Factory
 
 ## Migration Tools
 - https://gogcp.stratozone.com/ - Migration data collection
