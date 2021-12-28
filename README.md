@@ -53,6 +53,8 @@
 * https://cloud.google.com/adoption-framework - GCP Adoption Framework
 * https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/cloud-adoption-to-accelerate-it-modernization - Cloud Adoption to accelerate IT-modernization
 * https://cloud.google.com/blog/products/cloud-migration/real-world-cloud-migration-strategies - Migration Factory, Greenfield Dev, Modernization Factory
+* https://cloud.google.com/blog/products/cloud-migration/planning-a-multi-year-data-center-migration - Planning a Data Center migration to GCP
+* https://cloud.google.com/architecture/migration-to-gcp-getting-started#beginning_the_journey - Migration Path to GCP
 
 ## Migration Tools
 - https://gogcp.stratozone.com/ - Migration data collection
