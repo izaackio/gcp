@@ -10,7 +10,8 @@
 * https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-api-landscape - BigQuery APIs
 
 ### Working with BigQuery
-* https://siyab.medium.com/get-that-crucial-report-in-slack-channel-cdbdcf59c2cf - Building reports from BQ-data with Python and Matplotlib, and sending to Slack 
+* https://siyab.medium.com/get-that-crucial-report-in-slack-channel-cdbdcf59c2cf - Building reports from BQ-data with Python and Matplotlib, and sending to Slack
+* https://medium.com/paypal-tech/400-days-paypals-data-warehouse-migration-to-google-bigquery-8c3b845eb6c9 - PayPal migration to BigQuery 
 
 * https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-query-processing - BigQuery Query Processing
 * https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-jobs-reservation-model - BigQuery Jobs & Reservations
@@ -52,9 +53,6 @@
 * https://cloud.google.com/blog/products/cloud-migration/lets-migrate-why-lifting-and-shifting-simply-too-easy-ignore - Lift and Shifting to GCP
 * https://cloud.google.com/adoption-framework - GCP Adoption Framework
 * https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/cloud-adoption-to-accelerate-it-modernization - Cloud Adoption to accelerate IT-modernization
-* https://cloud.google.com/blog/products/cloud-migration/real-world-cloud-migration-strategies - Migration Factory, Greenfield Dev, Modernization Factory
-* https://cloud.google.com/blog/products/cloud-migration/planning-a-multi-year-data-center-migration - Planning a Data Center migration to GCP
-* https://cloud.google.com/architecture/migration-to-gcp-getting-started#beginning_the_journey - Migration Path to GCP
 
 ## Migration Tools
 - https://gogcp.stratozone.com/ - Migration data collection
